@@ -5,21 +5,30 @@
 
 👩🏻‍💻 Translator of the data | Sharing my journey through data storytelling and analysis. <br/><br>
 📚 Studying Business & Technology at University of Basel, to understand how data shapes innovation, strategy, and value. <br/><br>
-🚀 Always curious, always learning — ready to contribute to projects where data meets strategy.<br/><br><br>"Data tells a story — I help translate it." 
+🚀 Always curious, always learning — ready to contribute to projects where data meets strategy.<br/><br>
+>"Data tells a story — I help translate it." 
 
-[Let's connect!](https://www.linkedin.com/in/christinaluliu/)
+> [Let's connect!](https://www.linkedin.com/in/christinaluliu/)
 
 ### 🚀 Current Focus
 
-- Enhancing skills in **data storytelling** and **interactive dashboards**
-- Working on real datasets to explore **business KPIs**, customer insights, and trends
-- Studying advanced courses in **analytics, digital strategy, and innovation**
+- Enhancing skills in data storytelling and interactive dashboards
+- Working on datasets to explore business KPIs, customer insights, and trends
+- Studying advanced courses in analytics, digital strategy, and innovation
   
 ### 📸 Data Visualizations
 
-| CLV Dashboard | 
+| Risk Score by Cohort | 
 |-----------------|
-![CLV Dashboard](https://raw.githubusercontent.com/FelixFelicis7/Churn-and-Customer-Lifetime-Value-CLV-Analysis-for-Fintech-Advisory-Product/main/plots/CLV_heatmap.png)
+![CLV Dashboard](https://raw.githubusercontent.com/FelixFelicis7/Churn-and-Customer-Lifetime-Value-CLV-Analysis-for-Fintech-Advisory-Product/main/plots/churn_risk_level.png)
+
+| CLV by Cohort| 
+|-----------------|
+![CLV](https://raw.githubusercontent.com/FelixFelicis7/Churn-and-Customer-Lifetime-Value-CLV-Analysis-for-Fintech-Advisory-Product/main/plots/CLV_product_age.png)
+
+| Trend of CLV | 
+|-----------------|
+![CLV](https://raw.githubusercontent.com/FelixFelicis7/Churn-and-Customer-Lifetime-Value-CLV-Analysis-for-Fintech-Advisory-Product/main/plots/CLV_heatmap.png)
 
 
 > More visualizations on [Tableau Public](https://public.tableau.com/app/profile/yourprofile) or [Power BI Gallery](#)
