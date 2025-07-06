@@ -3,7 +3,9 @@
 
 ### 📈 Aspiring Data Enthusiast | M.Sc Business & Tech<br><br>
 
-👩🏻‍💻 Translator of the data | Sharing my journey through data storytelling and analysis. <br/><br>📚 Studying Business & Technology to understand how data shapes innovation, strategy, and value. <br/><br>🚀 Always curious, always learning — ready to contribute to projects where data meets strategy.<br/><br><br>"Data tells a story — I help translate it." 
+👩🏻‍💻 Translator of the data | Sharing my journey through data storytelling and analysis. <br/><br>
+📚 Studying Business & Technology to understand how data shapes innovation, strategy, and value. <br/><br>
+🚀 Always curious, always learning — ready to contribute to projects where data meets strategy.<br/><br><br>"Data tells a story — I help translate it." 
 
 [Let's connect!](https://www.linkedin.com/in/christinaluliu/)
 
