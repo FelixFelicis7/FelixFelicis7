@@ -8,7 +8,7 @@
 🚀 Always curious, always learning — ready to contribute to projects where data meets strategy.<br/><br>
 >"Data tells a story — I help translate it." 
 
-> [Let's connect!](https://www.linkedin.com/in/christinaluliu/)
+> I’d love to connect and collaborate.[Connect!](https://www.linkedin.com/in/christinaluliu/)
 
 ### 🚀 Current Focus
 
