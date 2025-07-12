@@ -15,17 +15,6 @@
 - Enhancing skills in data storytelling and interactive dashboards
 - Working on datasets to explore business KPIs, customer insights, and trends
 - Studying advanced courses in analytics, digital strategy, and innovation
-  
-### 📸 Data Visualizations
-
-| Risk Score by Cohort | 
-|-----------------|
-![CLV Dashboard](https://raw.githubusercontent.com/FelixFelicis7/Churn-and-Customer-Lifetime-Value-CLV-Analysis-for-Fintech-Advisory-Product/main/plots/churn_risk_level.png)
-
-| CLV by Cohort| 
-|-----------------|
-![CLV](https://raw.githubusercontent.com/FelixFelicis7/Churn-and-Customer-Lifetime-Value-CLV-Analysis-for-Fintech-Advisory-Product/main/plots/CLV_product_age.png)
-
 
 
 ---
