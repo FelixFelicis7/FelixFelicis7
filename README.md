@@ -1,33 +1,31 @@
-### Hi, I'm Lu 👋 I make messy data usable for AI.
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #00005f; text-decoration-color: #00005f">╔══════════════════════ </span><span style="color: #00005f; text-decoration-color: #00005f; font-weight: bold">Hi 👋 I&#x27;m Lu</span><span style="color: #00005f; text-decoration-color: #00005f"> ══════════════════════╗</span> 😄 Lu Liu
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> An economist turned data engineer, on a route from       <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┣━━ </span>🤖 Data x AI
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> Xinjiang to Freiburg to Basel. I build pipelines that    <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┃   ┣━━ </span><a href="https://github.com/FelixFelicis7/Humanoid-Robotics-Market-Intelligence-Pipeline">Humanoid Robotics Market Intelligence</a>
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> turn messy, multilingual text (English and Chinese)      <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┃   ┃   ┗━━ </span><span style="color: #7f7f7f; text-decoration-color: #7f7f7f">EN + Chinese news &gt; LLM in SQL &gt; star schema</span>
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> into data an analyst can trust and an LLM can query.     <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┃   ┗━━ </span><a href="https://github.com/FelixFelicis7/RAG-APP">RAG-APP · Inngest workflows, cited answers</a>
+<span style="color: #00005f; text-decoration-color: #00005f">║</span>                                                          <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┣━━ </span>🏗️ Data Engineering
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="font-weight: bold">Path</span>   economics &gt; BI &gt; DA &gt; DE &gt; LLM apps               <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┃   ┣━━ </span><a href="https://github.com/FelixFelicis7/Sales-Data-Warehouse">Sales Data Warehouse · SQL Server</a>
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="font-weight: bold">Study</span>  M.Sc. Economics, Uni Freiburg                     <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┃   ┗━━ </span><a href="https://github.com/FelixFelicis7/databricks-medallion-pipeline">Databricks Medallion Pipeline · Delta Lake</a>
+<span style="color: #00005f; text-decoration-color: #00005f">║</span>        M.Sc. Business &amp; Technology, Uni Basel (&#x27;27)      <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┣━━ </span>📊 Analytics &amp; BI
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="font-weight: bold">Speak</span>  English, Deutsch (B2), Chinese                    <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┃   ┣━━ </span><a href="https://github.com/FelixFelicis7/Churn-and-Customer-Lifetime-Value-CLV-Analysis-for-Fintech-Advisory-Product">Churn &amp; CLV Analysis</a>
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="font-weight: bold">Tools</span>  Databricks · Spark SQL · Python · FastAPI         <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┃   ┣━━ </span><a href="https://github.com/FelixFelicis7/Sales-Profit-Performance-Across-US-Regions">Tableau Sales &amp; Profit Dashboards</a>
+<span style="color: #00005f; text-decoration-color: #00005f">║</span>        LlamaIndex · Qdrant · Inngest · Power BI          <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┃   ┗━━ </span><a href="https://github.com/FelixFelicis7/-Weather-Impact-on-Public-Transport-Delays-in-Switzerland">Weather vs. Swiss Train Delays</a>
+<span style="color: #00005f; text-decoration-color: #00005f">║</span>                                                          <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">┗━━ </span>🌱 Currently building
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> Say hi on <span style="font-weight: bold"><a href="https://www.linkedin.com/in/christinaluliu/">LinkedIn</a></span>.                                      <span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #00af87; text-decoration-color: #00af87">    ┗━━ </span>dbt tests, CI &amp; an eval set for the LLM
+<span style="color: #00005f; text-decoration-color: #00005f">║</span>                                                          <span style="color: #00005f; text-decoration-color: #00005f">║</span> 
+<span style="color: #00005f; text-decoration-color: #00005f">║</span> <span style="color: #7f7f7f; text-decoration-color: #7f7f7f">-- WHERE ai_answers_are_grounded = TRUE</span>                  <span style="color: #00005f; text-decoration-color: #00005f">║</span> 
+<span style="color: #00005f; text-decoration-color: #00005f">╚══════════════════════════════════════════════════════════╝</span> 
+</pre>
 
-Economist by training, data engineer by choice. I take the text nobody wants to read (news, filings, reports, in English **and Chinese**) and turn it into tables an analyst can trust and an LLM can query.
+```text
+lu=> EXPLAIN ANALYZE SELECT insight FROM messy_data;
 
-```sql
--- whoami.sql
-SELECT
-  'Lu'                                       AS name,
-  'Xinjiang → Basel'                             AS route,
-  'M.Sc. Business & Technology, Uni Basel'       AS studying,     -- class of 2027
-  'economics → BI → data engineering → LLMs'     AS path,
-  ARRAY('English', 'Deutsch (B2)', '中文')        AS languages,
-  'Data × AI roles in Switzerland & Germany'     AS looking_for
-FROM   me
-WHERE  ai_answers_are_grounded = TRUE;
+ Answer the business question      ← economics, BI, Power BI / Tableau storytelling
+   └─ Serve it                     ← FastAPI, Streamlit, Text-to-SQL, RAG with citations
+       └─ Enrich with LLMs         ← translate · classify · extract to JSON, embeddings
+           └─ Filter: trusted only ← quality checks, evidence quotes, eval set (building)
+               └─ Model it         ← medallion layers, star schemas, metric definitions
+                   └─ Scan sources ← news, filings, PDFs, ERP/CRM CSVs, in EN + Chinese
+
+ Planning time: an economics degree     Execution time: every project above
 ```
-
-### Built so far
-
-- 🤖 **[Humanoid Robotics Market Intelligence](https://github.com/FelixFelicis7/Humanoid-Robotics-Market-Intelligence-Pipeline)**: an LLM reads EN + 中文 robotics news and writes funding rounds, partnerships and production plans into a star schema. Every row keeps the sentence it came from. Ask it in plain English through Genie Text-to-SQL or a RAG app.
-- 📄 **[RAG-APP](https://github.com/FelixFelicis7/RAG-APP)**: document Q&A where ingestion and answering run as event-driven Inngest workflows, and every answer cites its sources.
-- 🏗️ **[Sales Data Warehouse](https://github.com/FelixFelicis7/Sales-Data-Warehouse)** → **[on Databricks](https://github.com/FelixFelicis7/databricks-medallion-pipeline)**: one ERP + CRM warehouse, built twice: SQL Server first, then Delta Lake & Unity Catalog.
-- 💼 **AUMOVIO, data analyst intern (2026)**: automated a data collection & validation workflow with AI and scripting. The reporting cycle went from **5 days to 3**.
-
-<details>
-<summary>Earlier analytics work</summary>
-
-[Tableau sales dashboards](https://github.com/FelixFelicis7/Sales-Profit-Performance-Across-US-Regions) · [Churn & CLV analysis](https://github.com/FelixFelicis7/Churn-and-Customer-Lifetime-Value-CLV-Analysis-for-Fintech-Advisory-Product) · [SQL sales analytics](https://github.com/FelixFelicis7/Sales-Data-Analytics) · [Weather vs. Swiss train delays](https://github.com/FelixFelicis7/-Weather-Impact-on-Public-Transport-Delays-in-Switzerland)
-</details>
-
-🌱 **Now:** adding dbt tests, CI and an eval set to the robotics pipeline, so the LLM's extraction gets measured, not just trusted.
-
-📫 [LinkedIn](https://www.linkedin.com/in/christinaluliu/)
